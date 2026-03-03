@@ -1,0 +1,10 @@
+{
+  "dashboards": [
+    {"name": "Data Quality and Pipeline Monitoring", "file": "dashboard1.twbx"},
+    {"name": "Model Performance and Feature Importance", "file": "dashboard2.twbx"},
+    {"name": "Business Insights - Crime Patterns", "file": "dashboard3.twbx"},
+    {"name": "Scalability and Cost Analysis", "file": "dashboard4.twbx"}
+  ],
+  "data_source": "crime_clustering_results.csv",
+  "refresh": "extract"
+}

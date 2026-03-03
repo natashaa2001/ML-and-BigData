@@ -1,0 +1,7 @@
+spark:
+  app_name: ChicagoCrimeClustering
+  driver_memory: 4g
+  shuffle_partitions: 200
+  serializer: kryo
+  compression: snappy
+  adaptive_execution: true
